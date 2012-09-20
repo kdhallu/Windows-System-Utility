@@ -1,0 +1,13 @@
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\bin\Debug\ADVallignment.exe
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\bin\Debug\ADVallignment.pdb
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.Form1.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.Properties.Resources.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.tweaks.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.csproj.GenerateResource.Cache
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.exe
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.pdb
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.InformationCenter.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.ProcessMan.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.Startupmanager.resources
+c:\users\ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.tweaks2.resources
+C:\Users\Ketan\documents\visual studio 2010\Projects\ADVallignment\ADVallignment\obj\x86\Debug\ADVallignment.csprojResolveAssemblyReference.cache
