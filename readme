@@ -1,15 +1,18 @@
-I created this small tool since i wanted to explore Dotnet.This tools is developed in visual studio usin C#.
+### Introduction 
 
+## This is my college project I did it using C#.net. The tool 
+
+I created this small tool because I wanted to explore Dotnet. This tool is developed in visual studio using C#.
 It allows you to do the following things with your system : 
 
-• Change system Settings.
+• Change System Settings.
 • Backup system settings.
 • Reset Firewall.
 • Kill system Process.
 • View Operating system Information.
 • View Processor Details Including Clocks and Load of processor in Real-time.
-• Tweaks like Enable/Disable Taskmanager, Enable/Disable Balloon tips and adding a recycle bin  in My computer and more.
-• View startup application and disable them.
-• Deleting Temporary Files on a single click.
+• Tweaks like Enable/Disable Taskmanager, Enable/Disable Balloon tips and adding a recycle bin in My computer, and more.
+• View startup applications and disable them.
+• Deleting Temporary Files with a single click.
 
-Note that this tools is just for experiment purpose and highly unstable.I personally dont take any risk if your system crashes or if you loose any of your data
+Note that this tool is just for experiment purposes and is highly unstable. I personally do not take any risk if your system crashes or if you lose any of your data
